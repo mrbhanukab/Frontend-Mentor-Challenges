@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@900&family=Ubuntu:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@900&family=Patrick+Hand&family=Ubuntu:wght@700&display=swap");
 
 body {
   background-image: url("back.gif");
@@ -41,6 +41,13 @@ a {
 li {
   font-size: 1.5rem;
   font-family: "Ubuntu", sans-serif;
+  color: rgba(233, 230, 230, 0.767);
+}
+
+.challenger {
+  font-size: 1rem;
+  color: rgb(207, 199, 188);
+  font-family: "Patrick Hand", cursive;
 }
 
 li a {
