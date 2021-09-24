@@ -1,0 +1,71 @@
+.card {
+  height: 23.5rem;
+  width: 21.5rem;
+  max-width: 90%;
+  background-color: white;
+  z-index: 1;
+  overflow: hidden;
+  box-shadow: 0.5rem 0.5rem 15rem 0.2rem $dark-grayish-blue;
+  border-radius: 1.2rem;
+}
+
+#ctop {
+  position: relative;
+  background: url("../images/bg-pattern-card.svg") no-repeat center top;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 8.5rem;
+  border-bottom: 1px solid $dark-gray;
+}
+
+.prof {
+  padding-top: 42%;
+}
+
+.cmiddle {
+  padding-top: 20%;
+  text-align: center;
+}
+
+#rowa {
+  color: $very-dark-desaturated-blue;
+  position: absolute;
+  font-weight: 700;
+  padding-left: 6.5rem;
+}
+
+#rowa span {
+  font-weight: 400;
+  color: $dark-grayish-blue;
+  padding-left: 0.7rem;
+}
+
+#city {
+  padding-top: 0.5rem;
+  font-size: 0.8rem;
+  color: $dark-grayish-blue;
+  padding-bottom: 2rem;
+}
+
+.cbot {
+  padding-top: 1.5rem;
+  border-top: 1px solid $dark-gray;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.cbot p {
+  font-weight: bolder;
+  color: $very-dark-desaturated-blue;
+}
+
+.cbot span {
+  font-weight: lighter;
+  font-size: 0.75rem;
+  text-align: center;
+  display: block;
+}

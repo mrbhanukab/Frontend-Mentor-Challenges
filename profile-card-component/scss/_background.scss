@@ -1,0 +1,26 @@
+body {
+  background-color: $dark-cyan;
+}
+
+//Background Circles
+
+.bg {
+  position: absolute;
+  width: 200%;
+  height: 150%;
+}
+
+.bg-top {
+  top: -160%;
+  left: -250%;
+  transform: translate(50%, 50%);
+  background: url("../images/bg-pattern-top.svg") no-repeat right bottom;
+}
+
+.bg-bottom {
+  bottom: -175%;
+  right: -40%;
+  width: 60%;
+  transform: translate(-50%, -50%);
+  background: url("../images/bg-pattern-bottom.svg") no-repeat left top;
+}

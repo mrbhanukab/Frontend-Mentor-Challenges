@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@900&family=Ubuntu:wght@700&display=swap");
+
+body {
+  background-image: url("back.gif");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: ivory;
+  font-family: "Nunito", sans-serif;
+  font-size: 3rem;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  padding-left: 2rem;
+  background: rgba(255, 255, 255, 0.35);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(13px);
+  -webkit-backdrop-filter: blur(13px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  width: 57rem;
+  padding-bottom: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  font-size: 1.5rem;
+  font-family: "Ubuntu", sans-serif;
+}
+
+li a {
+  color: rgb(255, 255, 255);
+}
