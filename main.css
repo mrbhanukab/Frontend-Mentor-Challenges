@@ -51,6 +51,12 @@ li {
   font-family: "Patrick Hand", cursive;
 }
 
+.code {
+  font-size: 1rem;
+  color: rgba(235, 232, 228, 0.829);
+  font-family: "Ubuntu", sans-serif;
+}
+
 li a {
   color: rgb(255, 255, 255);
 }
@@ -59,4 +65,8 @@ h3 {
   color: wheat;
   font-size: 0.6rem;
   font-family: "Nunito", sans-serif;
+}
+
+.list {
+  margin-top: 1.5rem;
 }
