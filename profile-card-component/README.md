@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -24,7 +24,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ![](./screenshot.png)
 
-
 ### Links
 
 - Solution URL: (https://github.com/mrbhanukab/challenge/tree/master/profile-card-component)
@@ -38,6 +37,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - SCSS
 
 ### What I learned
+
 I learned more about SCSS. And also leanred how Add "svg" files to background.
 
 ### Useful resources
@@ -51,4 +51,5 @@ I learned more about SCSS. And also leanred how Add "svg" files to background.
 - Website - [Mr.Bhanuka](https://mrbhanukab.github.io)
 - Frontend Mentor - [@mrbhanukab](https://www.frontendmentor.io/profile/mrbhanukab)
 - Github - [@mrbhanukab](https://github.com/mrbhanukab)
+- Twitter - [@mrbhanuka](https://twitter.com/mrbhanuka)
 - Twitter - [@_mrbhanuka_](https://www.instagram.com/_mr.bhanuka_/)
